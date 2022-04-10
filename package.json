@@ -1,8 +1,8 @@
 {
   "name": "notification-service",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Notification service",
+  "author": "Ronak Mistry",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -26,7 +26,8 @@
     "@nestjs/platform-express": "^8.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "twilio": "^3.76.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^8.0.0",
