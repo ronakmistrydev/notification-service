@@ -28,6 +28,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0",
+    "telnyx": "^1.23.0",
     "twilio": "^3.76.1"
   },
   "devDependencies": {
